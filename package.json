@@ -1,0 +1,11 @@
+{
+  "name": "chromeCastTest",
+  "version": "7.0.2",
+  
+  
+ 
+  "repositories": {
+    "type": "public",
+    "url": "https://github.com/brgarciarivas/chromeCastTest.git"
+
+}
